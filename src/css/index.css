@@ -1,0 +1,9 @@
+body{
+  background: red;
+  color: blue;
+}
+.image{
+  width: 500px;
+  height: 300px;
+  background: url("http://121.199.1.64:7001/public/blog1593593017917.jpeg");
+}
